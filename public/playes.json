@@ -1,0 +1,75 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/6g4jCBh/images.jpg",
+      "role": "Batsman",
+      "battingBowlingType": "Right-hand bat",
+      "biddingPrice": 15000000
+    },
+    {
+      "playerId": 2,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/Hn83JM6/download.jpg",
+      "role": "All-rounder",
+      "battingBowlingType": "Left-hand bat",
+      "biddingPrice": 2000000
+    },
+    {
+      "playerId": 3,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/Sc00h1D/download-1.jpg",
+      "role": "Batsman",
+      "battingBowlingType": "Right-hand bat",
+      "biddingPrice": 18000000
+    },
+    {
+      "playerId": 4,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/fqs6CZm/download-2.jpg",
+      "role": "Bowler",
+      "battingBowlingType": "Right-arm fast",
+      "biddingPrice": 17000000
+    },
+    {
+      "playerId": 5,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/HrBP9gV/download-3.jpg",
+      "role": "Batsman",
+      "battingBowlingType": "Right-hand bat",
+      "biddingPrice": 21000000
+    },
+    {
+      "playerId": 6,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/M6QMKTv/download-4.jpg",
+      "role": "Bowler",
+      "battingBowlingType": "Left-arm fast",
+      "biddingPrice": 19000000
+    },
+    {
+      "playerId": 7,
+      "name": "Mitchel Marsh",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/87zg94V/download-5.jpg",
+      "role": "All-rounder",
+      "battingBowlingType": "Left-hand bat",
+      "biddingPrice": 16000000
+    },
+    {
+      "playerId": 8,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/FzD26rz/warner-player-of-the-tournamen-0-1200x768-1-1.jpg",
+      "role": "Batsman",
+      "battingBowlingType": "Left-hand bat",
+      "biddingPrice": 22000000
+    }
+  ]
+  
